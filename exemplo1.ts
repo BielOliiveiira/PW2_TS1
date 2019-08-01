@@ -1,2 +1,2 @@
-let message: string = "Hello World"
+let message: string = "everything in life is phase"
 console.log(message)
